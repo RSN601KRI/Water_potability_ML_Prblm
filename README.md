@@ -1,4 +1,3 @@
-```markdown
 # Water Potability Prediction
 
 ## Overview
